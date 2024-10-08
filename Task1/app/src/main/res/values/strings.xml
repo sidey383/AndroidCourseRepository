@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">First Task!</string>
+    <string name="first_page_button">To second page</string>
+    <string name="second_page_button">To third page</string>
+    <string name="third_page_button">To first page</string>
+    <string name="first_page_toast">You have gone to the second page!</string>
+    <string name="second_page_toast">You have gone to the third page!</string>
+    <string name="third_page_toast">You have gone to the first page!</string>
+</resources>
