@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="album_cover_image">Album cover</string>
+    <string name="play_button">Play button</string>
+    <string name="song_name">Ад пуст, все бесы здесь</string>
+    <string name="song_author">pyrokinesis</string>
+</resources>
